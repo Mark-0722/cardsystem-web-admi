@@ -3,7 +3,7 @@
     <h2>管理后台登录</h2>
     <input v-model="username" placeholder="用户名" />
     <input v-model="password" type="password" placeholder="密码" />
-    <button @click="login">登录8888</button>
+    <button @click="login">登录8888999</button>
     <p class="tip">（演示用，实际接后端 /auth/login）</p>
   </div>
 </template>
